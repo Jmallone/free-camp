@@ -1,4 +1,4 @@
-# free-camp
+# FREE-CAMP
 Testando scraping em node.js para donwload de albuns do site BandCamp.
 
 Exemplo:
